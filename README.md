@@ -15,6 +15,8 @@ Hey! I'm **Yabsira Dejene**, a passionate **Fullstack Web Developer** and **Mobi
 
 I specialize in crafting immersive **web apps**, elegant **mobile applications** using **Flutter**, and intuitive **learning tools** like browser extensions and quiz platforms. Whether it's coding, mentoring, or designing interfaces, I’m always building something meaningful.
 
+and also **i prefer observing the project or any challenge or solution as a system instead of single separeted flag.**
+
 ---
 
 ### 👀 Interests
@@ -44,8 +46,9 @@ I specialize in crafting immersive **web apps**, elegant **mobile applications**
 ### 😄 Pronouns
 He/Him
 
-### ⚡ Fun Fact
-> I’m building tools I once wished I had while learning. I believe **"accessible tech = empowered minds"**!
+### ⚡ Fun Fact  
+I believe that **creativity, code, and curiosity** can shape the future.  
+Also, I love turning challenges into projects and learning something new *every single day*. 🚀
 
 ---
 
@@ -137,4 +140,4 @@ He/Him
 
 [![](https://visitcount.itsvg.in/api?id=ELFAZ19&icon=9&color=0)](https://visitcount.itsvg.in)
 
-
+<!-- Proudly personalized by ChatGPT ✨ -->
