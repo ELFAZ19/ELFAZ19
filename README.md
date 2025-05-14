@@ -2,6 +2,13 @@
   <img src="https://komarev.com/ghpvc/?username=ELFAZ19&label=Profile%20views&color=0e75b6&style=flat" alt="Yabsira Dejene" />
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/🌐-Web%20Developer-blue?style=for-the-badge&logoColor=white" alt="Web Developer"/>
+  <img src="https://img.shields.io/badge/Flutter-Developer-blue?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Developer"/>
+  <img src="https://img.shields.io/badge/UI%2FUX-Designer-purple?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Designer"/>
+</p>
+
+
 <p align="center">
   <img src="https://github.com/iamSamael/iamSamael/assets/104965976/d5ceec0a-c788-4234-93be-bfcb0b247700" alt="Banner"/>
 </p>
