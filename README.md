@@ -15,7 +15,7 @@
 
 # 💫 About Me
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFC6&width=435&height=60&lines=Hi+there!+I'm+Yabsira+👋;Fullstack+Web+Developer;Flutter+App+Builder;Tech+Educator+%26+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFC6&width=435&height=60&lines=Hi+there!+I'm+Yabsira+👋;Fullstack+Web+Developer;Flutter+App+Builder;Ui/Ux+Designer;Graphics+Designer;Tech+Educator+%26+Builder" alt="Typing SVG" />
 </p>
 
 Hey! I'm **Yabsira Dejene**, a passionate **Fullstack Web Developer** and **Mobile App Builder** with a strong drive to create **impactful tech solutions** that empower learners, developers, and communities.
