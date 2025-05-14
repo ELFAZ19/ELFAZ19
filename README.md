@@ -128,7 +128,26 @@ Also, I love turning challenges into projects and learning something new *every 
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ---
+# 🌱 Soft Skills:
+- **Leadership:** As a team leader in multiple projects, I inspire, guide, and motivate my teammates to achieve common goals, ensuring everyone contributes their strengths.
+- **Problem-Solving:** I thrive on challenges and excel in breaking down complex problems, finding creative and efficient solutions.
+- **Teamwork:** I am highly collaborative, always eager to work with others, and encourage diverse ideas to reach the best possible outcomes.
+- **Communication:** I communicate clearly and effectively, whether presenting projects, writing technical documents, or facilitating discussions with teams.
+- **Adaptability:** I adapt quickly to new tools, technologies, and environments, continuously learning and adjusting as needed to succeed in dynamic situations.
+- **Time Management:** I efficiently manage my time, balancing academics, projects, and extracurricular activities while maintaining high-quality work.
+- **Mentorship:** As a teacher in graphics design and a team leader, I actively mentor others, sharing my knowledge and helping them grow.
+- **Public Speaking:** Comfortable presenting technical topics and engaging with an audience, whether in meetings, conferences, or workshops.
+- **Creativity:** I leverage creative thinking to design unique solutions, user-friendly interfaces, and visually appealing projects.
 
+---
+
+# 🌟 Other Qualities:
+- **Passion for Learning:** Always curious and eager to learn new technologies and methodologies.
+- **Cultural Awareness:** Having worked on projects in diverse settings, I value inclusivity and cultural diversity.
+- **Attention to Detail:** I focus on the finer details of projects to ensure precision and high standards.
+- **Positive Attitude:** I approach challenges with a positive mindset and remain persistent in finding solutions.
+
+---
 # 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ELFAZ19&theme=dark&hide_border=false" alt="GitHub Streak"/>
