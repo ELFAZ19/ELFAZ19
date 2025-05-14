@@ -100,7 +100,6 @@ Also, I love turning challenges into projects and learning something new *every 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Sketchware](https://img.shields.io/badge/Sketchware-4285F4?style=for-the-badge)
 ![Scratch](https://img.shields.io/badge/Scratch-FFAB1D?style=for-the-badge&logo=scratch&logoColor=white)
 ![Chrome Extensions](https://img.shields.io/badge/Chrome%20Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 
@@ -124,6 +123,7 @@ Also, I love turning challenges into projects and learning something new *every 
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Sketchware](https://img.shields.io/badge/Sketchware-4285F4?style=for-the-badge)
 ![Udacity](https://img.shields.io/badge/Udacity-02B3E4?style=for-the-badge)
 ![Pluralsight](https://img.shields.io/badge/Pluralsight-F15B2A?style=for-the-badge)
 ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge)
