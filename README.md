@@ -159,15 +159,5 @@ Also, I love turning challenges into projects and learning something new *every 
 
 ---
 # 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ELFAZ19&theme=dark&hide_border=false" alt="GitHub Streak"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELFAZ19&layout=compact&theme=dark&hide_border=false&count_private=true" alt="Top Languages"/>
-</p>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=ELFAZ19&icon=9&color=0)](https://visitcount.itsvg.in)
-
 
 <!-- made by Yabsira Dejene ✨ -->
